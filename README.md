@@ -4,7 +4,8 @@
 
 ## 線上演示
 
-訪問 [LookAtMe Timer](https://leo-oneclass.github.io/leowang/) 來體驗應用程式。
+- GitHub Pages: [LookAtMe Timer](https://leo-oneclass.github.io/leowang/)
+- Vercel: [LookAtMe Timer](https://leowang.vercel.app)
 
 ## 功能特點
 
@@ -48,10 +49,14 @@
 - `styles.css` - 樣式表
 - `script.js` - JavaScript 功能實現
 - `bell-sound.mp3` - 計時結束提示音
+- `vercel.json` - Vercel 部署配置
 
 ## 部署
 
-本專案使用 GitHub Pages 進行部署。訪問 https://leo-oneclass.github.io/leowang/ 即可使用。
+本專案支援多平台部署：
+
+- **GitHub Pages**: 訪問 https://leo-oneclass.github.io/leowang/
+- **Vercel**: 訪問 https://leowang.vercel.app
 
 ## 開發者
 
