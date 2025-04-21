@@ -5,7 +5,7 @@
 ## 線上演示
 
 - GitHub Pages: [LookAtMe Timer](https://leo-oneclass.github.io/leowang/)
-- Vercel: [LookAtMe Timer](https://leowang.vercel.app)
+- Vercel: [LookAtMe Timer](https://leowang-v2.vercel.app/)
 
 ## 功能特點
 
@@ -56,7 +56,7 @@
 本專案支援多平台部署：
 
 - **GitHub Pages**: 訪問 https://leo-oneclass.github.io/leowang/
-- **Vercel**: 訪問 https://leowang.vercel.app
+- **Vercel**: 訪問 https://leowang-v2.vercel.app/
 
 ## 開發者
 
